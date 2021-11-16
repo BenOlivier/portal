@@ -1,4 +1,4 @@
-# Three.js Journey
+# Portal
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
